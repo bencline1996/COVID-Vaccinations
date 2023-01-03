@@ -1,6 +1,8 @@
 # COVID-Vaccinations
 Demo of Tableau. CSV is unfortunately UTF-16 and doesn't play nicely with R by default, so I did not bother to do full data exploration prior with R. Credits to Lorenzo "Lore So What" Rosa for providing the data and majority of the idea behind the dashboard, as I was lacking creativity.
 
+Accessibility issues are important to me. I deliberately tried to make the colours readable for those with colourblindness. None of the charts are particularly complex so I elected to use two colours of different tints for the "two categorical values" charts, and shades of blue for the "continuous values" charts. From my testing, they should be readable under any type of colorblindness.
+
 ## KPI 1
 ![image](https://user-images.githubusercontent.com/30058994/210317470-79af1924-ea53-4dd9-aa0e-592f8dac9e13.png)
 
